@@ -1,4 +1,7 @@
-### Hi there 👋
+<h3 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<hr>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andela-gike&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andela-gike/andela-gike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
